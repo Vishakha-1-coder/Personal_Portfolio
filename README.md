@@ -2,8 +2,7 @@
 
 This is a modern, interactive personal portfolio website built for an AI & Machine Learning Engineer. It features a stunning 3D interactive particle background, a sleek "glassmorphism" UI, and dedicated sections to showcase accomplishments, projects, and skills.
 
-**[Live Demo](https://your-username.github.io/)** <-- *Replace with your live URL after deploying!*
-
+https://vishakha-1-coder.github.io/Personal_Portfolio/
 ---
 
 ## Features
